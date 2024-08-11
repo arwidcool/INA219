@@ -14,6 +14,7 @@ This repository contains the custom design files for a modified INA219 High Side
 - **Matched Area for Vin- and Vin+:** Ensures balanced signal paths for Vin- and Vin+, improving measurement accuracy.
 - **Decoupling Capacitor:** A decoupling capacitor has been added across the amplifier input pins to reduce noise and improve stability.
 - **Configurable I2C Address:** I2C address pins (A0 and A1) can be jumper soldered to either ground or VCC, allowing for flexible address configuration.
+- **Length Matched I2C Lines:** Differential routing of I2C bus SCL and SDA lines to improve stability when using connectors
 
 ## Repository Contents
 
