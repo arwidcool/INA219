@@ -10,6 +10,7 @@ This repository contains the custom design files for a modified INA219 High Side
 ### Key Improvements
 
 - **Redesigned Layout:** The PCB layout has been completely redesigned, maintaining the same form factor and mounting hole placements as the original Adafruit module.
+- **Higher Current:** The original design had thin traces that would not handle current. This design theoretically should be able to handle 15A as that is the rating of the connector.
 - **EMI Shielding:** Integrated electromagnetic interference (EMI) shielding for improved signal integrity in noisy environments.
 - **4-Wire Kelvin Connection:** Correct 4-wire Kelvin connection for more accurate current sensing, minimizing the impact of trace resistance.
 - **Matched Area for Vin- and Vin+:** Ensures balanced signal paths for Vin- and Vin+, improving measurement accuracy.
