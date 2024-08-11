@@ -1,6 +1,6 @@
 # INA219 High Side DC Current Sensor Breakout Board - Custom Design
 
-![INA219 Sensor](./images/TOP 3D_INA219 V1.0_2024-08-11.png)
+![INA219 Sensor](./Images/TOP 3D_INA219 V1.0_2024-08-11.png)
 
 ## Description
 
