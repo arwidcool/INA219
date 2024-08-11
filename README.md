@@ -17,10 +17,11 @@ This repository contains the custom design files for a modified INA219 High Side
 
 ## Repository Contents
 
-- **Schematics:** Detailed schematic diagrams in PDF and EasyEDA format.
+- **Schematics:** Detailed schematic diagrams in PDF and JPEG format.
 - **Gerber Files:** Ready-to-manufacture Gerber files for PCB fabrication.
 - **3D Files:** 3D models of the PCB for visual inspection and mechanical integration both STEP and OBJ.
 - **EasyEDA Project:** Direct link to the EasyEDA project for further modifications and enhancements.
+- **LCSC BOM Files:** All the component numbers and LCSC part numbers for ordering.
 
 ## Getting Started
 
@@ -31,15 +32,10 @@ To use this design:
 3. **Assemble the Board:** Solder the necessary components onto the PCB.
 4. **Integration:** Integrate the sensor into your project, using the same connections as the original Adafruit INA219 module.
 
-## Images
-
-![Schematic Diagram](https://example.com/schematic-image-url) <!-- Replace with your actual image URL -->
-
-![3D PCB View](https://example.com/3d-pcb-image-url) <!-- Replace with your actual image URL -->
 
 ## EasyEDA Project
 
-You can access the EasyEDA project for this design [here](https://easyeda.com/yourusername/ina219-custom-design). This allows you to modify the design, generate BOMs, and more.
+You can access the EasyEDA project for this design in the [EasyEDA Pro Folder](./EasyEDA%20Pro/)
 
 ## License
 
