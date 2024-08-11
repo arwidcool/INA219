@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository contains the custom design files for a modified INA219 High Side DC Current Sensor Breakout Board. The design is fully compatible with the Adafruit INA219 module but incorporates several key improvements to enhance performance and reliability.
+This repository contains the custom design files for a modified INA219 High Side DC Current Sensor Breakout Board. The design is fully compatible with the Adafruit INA219 module but incorporates several key improvements to enhance performance and reliability. The reason for making this is because I was not happy with the original adafruit design and I saw many mistakes so I wanted to provide a free alternative that can be ordered directly from a online PCB assembly like JLCPCB.
 
 ### Key Improvements
 
@@ -19,7 +19,7 @@ This repository contains the custom design files for a modified INA219 High Side
 
 - **Schematics:** Detailed schematic diagrams in PDF and EasyEDA format.
 - **Gerber Files:** Ready-to-manufacture Gerber files for PCB fabrication.
-- **3D Files:** 3D models of the PCB for visual inspection and mechanical integration.
+- **3D Files:** 3D models of the PCB for visual inspection and mechanical integration both STEP and OBJ.
 - **EasyEDA Project:** Direct link to the EasyEDA project for further modifications and enhancements.
 
 ## Getting Started
